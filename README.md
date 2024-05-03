@@ -9,3 +9,6 @@ LRFM Analysis - Canadian Brewhouse:
 
 Global COVID Vaccines:
 - Power BI file containing a dashboard of Covid Vaccination Information focusing mainly on the vaccines used, created as part of a school project.
+
+Regression Analysis:
+- Python notebook containing the process of preparing and cleaning data to then perform a regression analysis.
