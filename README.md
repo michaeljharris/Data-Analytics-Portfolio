@@ -7,5 +7,5 @@ Superstore Dataset Analysis:
 LRFM Analysis - Canadian Brewhouse:
 - Python notebook of a full LRFM Analysis on data provided to me by the Canadian Brewhouse as part of a school project.
 
-Global COVID Vaccinations:
-- Power BI file containing a dashboard of Covid Vaccination Information, created as part of a school project
+Global COVID Vaccines:
+- Power BI file containing a dashboard of Covid Vaccination Information focusing mainly on the vaccines used, created as part of a school project.
